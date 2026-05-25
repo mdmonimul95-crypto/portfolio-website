@@ -102,7 +102,7 @@ export default function Portfolio() {
               target="_blank"
               className="bg-gradient-to-r from-cyan-500 to-blue-600 text-white px-6 py-3 rounded-xl text-center hover:scale-105 transition"
             >
-              Download Resume
+              View Resume
             </a>
 
           </div>
