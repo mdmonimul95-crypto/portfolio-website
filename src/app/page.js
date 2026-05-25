@@ -98,7 +98,7 @@ export default function Portfolio() {
             </a>
 
             <a
-              href="/resume.pdf"
+              href="/my-app/public/Resume monimul.pdf"
               target="_blank"
               className="bg-gradient-to-r from-cyan-500 to-blue-600 text-white px-6 py-3 rounded-xl text-center hover:scale-105 transition"
             >
